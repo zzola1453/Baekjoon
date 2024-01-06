@@ -1,6 +1,6 @@
 //2606 바이러스
 //silver 3
-//사용 알고리즘 DFS(재귀함수)
+//사용 알고리즘 DFS(재귀함수) 어지저찌 이해는 했습니다.
 //근데 스스로 못하겠어서 다른 코드보면서 이해함 https://from20180718.blogspot.com/2018/09/c-2606-dfs-bfs.html
 
 #include <iostream>
