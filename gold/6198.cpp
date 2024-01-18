@@ -1,3 +1,7 @@
+//6198 옥상정원꾸미기
+//gold5
+//사용 자료구조:stack
+//총평 : 내 생각보다 stack으로 많은 상상을 해야한다는 것을 알게 되었음 stack의 활용을 많이 하면서 좀 더 익혀야겠다고 반성이 된다.
 #include <stdio.h>
 #include <stack>
 using namespace std;
